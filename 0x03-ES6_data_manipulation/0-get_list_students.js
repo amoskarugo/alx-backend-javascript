@@ -17,5 +17,5 @@ function getListStudents() {
 
   return studentObjects;
 }
-// export default getListStudents;
-console.log(getListStudents());
+export default getListStudents;
+
